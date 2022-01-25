@@ -1,0 +1,4 @@
+# Morse-Code-Encoder
+I worked on this Morse Code Encoder program as a personal project to learn as much as I could about string manipulations. The most challenging part of this project was to seperate each string input into seperate words, and then into seperate characters to replace them individually into morse code. I overcame this challenge by creating a method that would change words into morse code in two steps. First of all, the StringTokenizer function would separate each string into words, and then, using two arrays (one for individual letters and numbers, and the other for morse code) I used imbedded "for" loops to iterate through each letter in a word and then find the corresponding letter or number. The value of the corresponding letter or number could be mapped to the array of morse code signals that were set up in alphabetical order.
+
+This project was very amusing and helpful for me as I learned a lot about string manipulation in Java.
